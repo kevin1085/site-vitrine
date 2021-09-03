@@ -1,6 +1,9 @@
 .première-page{
     background:rgb(193, 236, 231);
 }
+.deuxième-page{
+    background-color: rgb(245, 239, 239);
+}
 
 h2{
     text-align: center;
@@ -14,4 +17,11 @@ h2{
     text-align: center;
     border: black 1px solid;
     padding: 15px;
+}
+h3{
+    text-decoration: underline;
+}
+
+.texte{
+    background-color: lightyellow;
 }
