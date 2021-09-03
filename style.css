@@ -1,0 +1,9 @@
+body{
+    background:rgb(193, 236, 231);
+}
+
+h1{
+    text-align: center;
+    border: black 1px solid;
+    padding: 15px;
+}
