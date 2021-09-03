@@ -1,12 +1,7 @@
-body{
+.première-page{
     background:rgb(193, 236, 231);
 }
 
-h1{
-    text-align: center;
-    border: black 1px solid;
-    padding: 15px;
-}
 h2{
     text-align: center;
     text-decoration: underline;
@@ -16,4 +11,7 @@ h2{
     background-clip:text;
     -webkit-background-clip:text;
     color:transparent;
+    text-align: center;
+    border: black 1px solid;
+    padding: 15px;
 }
