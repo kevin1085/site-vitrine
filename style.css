@@ -1,5 +1,10 @@
 .première-page{
     background:rgb(193, 236, 231);
+    width: 100%;
+    max-width: 1200px;
+    font-weight: 500;
+    min-height: 600px;
+
 }
 .deuxième-page{
     background-color: rgb(245, 239, 239);
@@ -24,4 +29,13 @@ h3{
 
 .texte{
     background-color: lightyellow;
+}
+.h1{
+    text-align: center;
+}
+
+@media and (max-width: 700px) and (orientation: portrait){
+
+}
+    
 }
